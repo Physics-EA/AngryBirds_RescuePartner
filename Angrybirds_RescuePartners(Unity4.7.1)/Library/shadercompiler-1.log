@@ -1,0 +1,9 @@
+Base path: D:/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-16604
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=558 outsize=558 ok=1
+Cmd: preprocess
+  insize=721 outsize=721 ok=1
+Cmd: preprocess
+  insize=553 outsize=553 ok=1
